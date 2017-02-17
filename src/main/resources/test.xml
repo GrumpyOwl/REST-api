@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<StandardProposalForm>
+  <General>
+    <ProposalTitle>tytul proposala</ProposalTitle>
+    <ProposalObjectives>cel1, cel2, cel3</ProposalObjectives>
+    <UserCategory>General</UserCategory>
+    <ProposalCategory>New</ProposalCategory>
+    <FinancialSupportRequested>false</FinancialSupportRequested>
+    <Discipline>Life Sciences &amp; Biotech</Discipline>
+    <SpecificDiscipline>Molecular and cellular biology</SpecificDiscipline>
+    <ShiftsRequired>16</ShiftsRequired>
+  </General>
+  <Scientific>
+    <ComplementaryExperimentCommonHeading>tytul</ComplementaryExperimentCommonHeading>
+    <Background>opis</Background>
+    <Motivation>motywacja</Motivation>
+    <ProjectDescription>opis projektu</ProjectDescription>
+    <WhyCallsForFacilityAccess>wyjaśnienia</WhyCallsForFacilityAccess>
+    <References>referencje moje</References>
+  </Scientific>
+  <Technical>
+    <SafetyForms>
+      <SafetyForm>
+        <Substance>probka1</Substance>
+        <ChemicalFormula>756fff</ChemicalFormula>
+        <PhysicalState>Solid</PhysicalState>
+        <OtherPhysicalState />
+        <GasInfo>
+          <VolumeOfCylinderUsed>
+            <Value>0</Value>
+            <Unit>cm3</Unit>
+            <String>0 cm3</String>
+          </VolumeOfCylinderUsed>
+          <PressureOfGasInCylinder>
+            <Value>0</Value>
+            <Unit>mbar</Unit>
+            <String>0 mbar</String>
+          </PressureOfGasInCylinder>
+        </GasInfo>
+        <Size>
+          <Value>20</Value>
+          <Unit>mm3</Unit>
+          <String>20 mm3</String>
+        </Size>
+        <Mass>
+          <Value>30</Value>
+          <Unit>mg</Unit>
+          <String>30 mg</String>
+        </Mass>
+        <RiskInSampleOrEquipment>true</RiskInSampleOrEquipment>
+        <Risks>
+          <Radioactive>true</Radioactive>
+          <Oxidising>false</Oxidising>
+          <Corrosive>false</Corrosive>
+          <Contaminant>true</Contaminant>
+          <Combustive>false</Combustive>
+          <BiologicalHazard>true</BiologicalHazard>
+          <CarcinogenicMutagenicTeratogenic>false</CarcinogenicMutagenicTeratogenic>
+          <Inflammable>false</Inflammable>
+          <Toxic>false</Toxic>
+          <Explosive>true</Explosive>
+        </Risks>
+      </SafetyForm>
+      <SafetyForm>
+        <Substance>probka2</Substance>
+        <ChemicalFormula>kh4</ChemicalFormula>
+        <PhysicalState>Gas</PhysicalState>
+        <OtherPhysicalState />
+        <GasInfo>
+          <VolumeOfCylinderUsed>
+            <Value>30</Value>
+            <Unit>cm3</Unit>
+            <String>30 cm3</String>
+          </VolumeOfCylinderUsed>
+          <PressureOfGasInCylinder>
+            <Value>22</Value>
+            <Unit>mbar</Unit>
+            <String>22 mbar</String>
+          </PressureOfGasInCylinder>
+        </GasInfo>
+        <Size>
+          <Value>0</Value>
+          <Unit>mm3</Unit>
+          <String>0 mm3</String>
+        </Size>
+        <Mass>
+          <Value>0</Value>
+          <Unit>mg</Unit>
+          <String>0 mg</String>
+        </Mass>
+        <RiskInSampleOrEquipment>true</RiskInSampleOrEquipment>
+        <Risks>
+          <Radioactive>false</Radioactive>
+          <Oxidising>false</Oxidising>
+          <Corrosive>false</Corrosive>
+          <Contaminant>true</Contaminant>
+          <Combustive>true</Combustive>
+          <BiologicalHazard>false</BiologicalHazard>
+          <CarcinogenicMutagenicTeratogenic>true</CarcinogenicMutagenicTeratogenic>
+          <Inflammable>true</Inflammable>
+          <Toxic>false</Toxic>
+          <Explosive>false</Explosive>
+        </Risks>
+      </SafetyForm>
+      <SafetyForm>
+        <Substance>probka3</Substance>
+        <ChemicalFormula>j3</ChemicalFormula>
+        <PhysicalState>Other</PhysicalState>
+        <OtherPhysicalState>inny stan</OtherPhysicalState>
+        <GasInfo>
+          <VolumeOfCylinderUsed>
+            <Value>0</Value>
+            <Unit>cm3</Unit>
+            <String>0 cm3</String>
+          </VolumeOfCylinderUsed>
+          <PressureOfGasInCylinder>
+            <Value>0</Value>
+            <Unit>mbar</Unit>
+            <String>0 mbar</String>
+          </PressureOfGasInCylinder>
+        </GasInfo>
+        <Size>
+          <Value>9</Value>
+          <Unit>mm3</Unit>
+          <String>9 mm3</String>
+        </Size>
+        <Mass>
+          <Value>65</Value>
+          <Unit>mg</Unit>
+          <String>65 mg</String>
+        </Mass>
+        <RiskInSampleOrEquipment>true</RiskInSampleOrEquipment>
+        <Risks>
+          <Radioactive>false</Radioactive>
+          <Oxidising>false</Oxidising>
+          <Corrosive>true</Corrosive>
+          <Contaminant>true</Contaminant>
+          <Combustive>false</Combustive>
+          <BiologicalHazard>false</BiologicalHazard>
+          <CarcinogenicMutagenicTeratogenic>true</CarcinogenicMutagenicTeratogenic>
+          <Inflammable>true</Inflammable>
+          <Toxic>false</Toxic>
+          <Explosive>false</Explosive>
+        </Risks>
+      </SafetyForm>
+    </SafetyForms>
+    <AvailableEquipment>sprzęt</AvailableEquipment>
+    <AdditionalEquipment>dodatkowy sprzet</AdditionalEquipment>
+    <OfflineFacilities>brak</OfflineFacilities>
+    <OtherRequirements>nie ma</OtherRequirements>
+  </Technical>
+  <SpfVersion>1.1</SpfVersion>
+</StandardProposalForm>
